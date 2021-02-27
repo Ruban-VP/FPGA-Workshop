@@ -3,7 +3,7 @@
 ## Problem Statements
 
 ### Verilog Basics:
-- [ ] XOR Gate
+- [ ] [XNOR Gate](https://hdlbits.01xz.net/wiki/Xnorgate)
 - [ ] Vector concatenation
 - [ ] Carry-Select adder
 - [ ] Always (Combinational)
